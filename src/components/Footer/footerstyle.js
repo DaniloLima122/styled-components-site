@@ -9,8 +9,10 @@ export const MFooter = styled.footer`
     margin-top:100px;
     padding:70px 20px;
     text-align: center;
+    bottom:0;
 
     p{
         color:#fff;
+        text-align:center;
     }
 `;

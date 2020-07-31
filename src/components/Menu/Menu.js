@@ -9,9 +9,9 @@ export default function Menu() {
                 <Link to="/" className="logo">/></Link>
                 <ul>
                     <li><Link to="/">Home</Link></li>
-                    <li><Link to="/">About</Link></li>
-                    <li><Link to="/">Contact</Link></li>
-                    <li><Link to="/">Login/Signup</Link></li>
+                    <li><Link to="/about">About</Link></li>
+                    <li><Link to="/contact">Contact</Link></li>
+                    <li><Link to="/dash">Dashboard</Link></li>
                 </ul>
             </Route>
         </Nav>
