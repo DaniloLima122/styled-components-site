@@ -1,6 +1,6 @@
 import React from 'react';
 
-import { HBanner } from "./BannerStyle"
+import { HBanner } from "./BannerStyle";
 
 import imagem from "../../img/banner.jpg";
 
