@@ -1,7 +1,5 @@
 import styled from "styled-components";
 
-
-
 export const HBanner = styled.div`
 
     width:100%;
@@ -40,6 +38,4 @@ export const HBanner = styled.div`
         outline:none;
         cursor:pointer;
     }
-
- 
 `;
