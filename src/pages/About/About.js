@@ -11,9 +11,8 @@ export default function About() {
         <MAbout>
             <Menu />
             <div>
-
-            <h1>Sobre o Styled Components</h1>
-            <p>styled-components é uma biblioteca para React e React Native que permite que você use estilos ao nível de componente na sua aplicação. Eles são escritos em uma mistura de JavaScript com CSS.
+                <h1>Sobre o Styled Components</h1>
+                <p>styled-components é uma biblioteca para React e React Native que permite que você use estilos ao nível de componente na sua aplicação. Eles são escritos em uma mistura de JavaScript com CSS.
 Se você ainda não está familiarizado com styled-components, dê uma olhada no website oficial para ter uma idéia.</p>
             </div>
             <Footer />
